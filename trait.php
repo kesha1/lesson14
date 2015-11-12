@@ -6,6 +6,8 @@ trait CarTrait{
     }
 }
 
+//Privet KESHA!
+
 class Car{
     use CarTrait;
 
