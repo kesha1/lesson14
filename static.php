@@ -10,4 +10,6 @@ class Math
 
 }
 
+//hi!
+
 echo Math::getPow(2, 3);
